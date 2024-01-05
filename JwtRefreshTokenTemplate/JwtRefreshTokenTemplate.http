@@ -1,0 +1,6 @@
+@JwtRefreshTokenTemplate_HostAddress = http://localhost:5005
+
+GET {{JwtRefreshTokenTemplate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
